@@ -5,5 +5,6 @@ public class Chess {
         System.out.println("This is a line from a branch");
         System.out.println("This is also a new line from a branch");
         System.out.println("Testing merge");
+        System.out.println("Testing new merge");
     }
 }
